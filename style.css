@@ -1,0 +1,116 @@
+body {
+  background-image: url(images/profile_large2.jpg);
+  font-family: 'Roboto', sans-serif;
+  color: #7D7D7D;
+  font-weight: 300;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  color: #FBFCFD;
+  margin-bottom: -7px;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  color: #4D4D4D;
+}
+
+a {
+  color: #FBFCFD;
+  text-decoration: none;
+}
+
+a:hover {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #FBFCFD;
+  text-shadow: 1px 1px 1px black;
+}
+
+p {
+  text-align: justify;
+}
+
+.container {
+  width: 600px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+footer {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto;
+   /* This automatically sets left/right margins */
+}
+
+ul {
+  margin-bottom: 20px;
+}
+
+ul li{
+  display: inline;
+  padding: 10px 20px 10px 10px;
+  margin-left: -10px;
+  color: #FBFCFD;
+}
+
+/*#profile_pic {
+  width: 200px;
+  margin-left: 170px;
+  border-radius: 50%;
+  border: 2px solid #333333;
+}*/
+
+#purpose {
+  margin-bottom: 7px;
+  color: #FBFCFD;
+}
+
+.card {
+  display: flex;
+  margin-left: -300px;
+  margin-bottom: 50px;
+  align-items: left;
+  width: 650px;
+  background-color: #FBFCFD;
+  padding: 10px 10px 10px 10px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 1%;
+}
+
+.text_in_card {
+  padding: 0px 25px 30px 25px;
+  text-align: left;
+}
+
+#description {
+  width: 500px;
+  color: #FBFCFD;
+  margin-left: -300px;
+  margin-top: -40px;
+  margin-bottom: 50px;
+}
+
+.wrapper {
+  margin-left: -300px;
+  margin-top: 370px;
+}
+
+.table_content {
+  margin-bottom: 10px;
+}
+
+/*table {
+  margin-top: 10px;
+  margin-left: -300px;
+  margin-bottom: 30px;
+}*/
+
+
+td {
+  padding: 10px 20px 10px 20px;
+}
